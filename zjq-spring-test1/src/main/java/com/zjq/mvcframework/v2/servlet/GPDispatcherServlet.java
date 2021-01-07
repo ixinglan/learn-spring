@@ -1,4 +1,4 @@
-package com.zjq.mvcframework.v1.v2.servlet;
+package com.zjq.mvcframework.v2.servlet;
 
 import com.zjq.mvcframework.annotation.*;
 
